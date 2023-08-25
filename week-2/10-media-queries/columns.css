@@ -1,4 +1,7 @@
 /* Add your own CSS code below */
+.countries {
+  columns: 1px;
+}
 @media (min-width: 769px) {
   .countries {
     columns: 2;

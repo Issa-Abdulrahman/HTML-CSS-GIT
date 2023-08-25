@@ -1,1 +1,22 @@
 /* Add your own CSS code below */
+.red-heart{
+    color: #c85308;
+}
+@media  screen and (min-width :992px) {
+
+}
+.herotitle{
+    font-size: 34px;
+}
+
+@media screen and (min-width:767px){
+    .main-navlist{
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .site-header{
+        display: flex;
+        justify-content: space-between;
+    }
+}
